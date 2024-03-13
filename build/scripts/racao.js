@@ -1,1 +1,1 @@
-function calcularRacao(){var r=Number(frm.inQuantidade.value),a=Number(frm.inConsumo.value),r=1e3*r,e=Math.floor(r/a),r=r%a;outResp1.innerText=`A ração irá durar ${e} dias`,outResp2.innerText=`Irá sobrar ${r}gr`}export{calcularRacao};
+function ಠ_ಠ508(){var r=Number(frm.inQuantidade.value),a=Number(frm.inConsumo.value),r=1e3*r,e=Math.floor(r/a),r=r%a;outResp1.ಠ_ಠ509=`A ração irá durar ${e} dias`,outResp2.ಠ_ಠ509=`Irá sobrar ${r}gr`}export{ಠ_ಠ508};
